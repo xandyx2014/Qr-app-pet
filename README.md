@@ -7,11 +7,6 @@ This app is static. I mean, This is a UI design. No backend.
 ![](./screenshots/1.jpg)
 ![](./screenshots/2.jpg)
 
-## Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-
 ## Getting Started
 
 A few resources to get started if this is your first Flutter project:
